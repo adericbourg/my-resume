@@ -1,4 +1,5 @@
-CV
+Alban Dericbourg
 ==
 
-My CV
+Sources de mon CV. Se compilent directement avec LaTeX.
+
