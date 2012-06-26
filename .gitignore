@@ -1,4 +1,5 @@
 *.aux
+*.backup
 *.bbl
 *.blg
 *.dvi
