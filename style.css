@@ -50,6 +50,16 @@ h2:hover {
     text-shadow: 1px 1px 1px #333;
 }
 
+/* Item title */ 
+dd h3 {
+    margin-top: 0;
+    font-variant:small-caps;
+}
+
+dd h4 {
+    font-size: 17px;
+}
+
 /* Definitions */
 dt {
     float: left;
@@ -60,6 +70,11 @@ dt {
 dd {
     margin-left: 17%;
 }
+
+dt, dd {
+    padding-bottom: 0.5em;
+}
+
 p {
     margin-top:0;
     margin-bottom:7px;
@@ -67,7 +82,7 @@ p {
 
 /* Blockquotes */
 blockquote {
-    text-align: center
+    text-align: center;
 }
 
 /* Links */
@@ -84,5 +99,5 @@ a:hover, a:active {
 
 /* Horizontal separators */
 hr {
-    color: #A6A6A6;
+    color: #33bcff;
 }
