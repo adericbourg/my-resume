@@ -11,7 +11,7 @@ Expérience professionnelle
 --------------------------
 
 Depuis 2013
-:   ### Ippon technologies (Paris)
+:   ### Ippon technologies <small>Paris</small>
 
     #### Darty (depuis juil. 2013) <small>Ingénieur études et développement</small>
 
@@ -29,7 +29,7 @@ Depuis 2013
     Environnement : Spring, Hibernate, Java 6, Maven, Jetty, Junit, EasyMock, Oracle, framework Java propriétaire
 
 2009 - 2013
-:   ### KleeGroup (Le Plessis-Robinson, 92)
+:   ### KleeGroup <small>Le Plessis-Robinson, 92</small>
 
     Participation à la conception technique et au développement d'applications de gestion
 

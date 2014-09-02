@@ -14,7 +14,7 @@ Expérience professionnelle
 
 Depuis 2013
 
-    Ippon technologies (Paris)
+    Ippon technologies Paris
 
     Darty (depuis juil. 2013) Ingénieur études et développement
 
@@ -31,14 +31,14 @@ Depuis 2013
 
     Digiplug (déc. 2012 - juil. 2013) Ingénieur études et développement
 
-    Application de gestion des publications d’œuvres
+    Application de gestion des sorties d’œuvres du catalogue UMGI.
 
     Environnement : Spring, Hibernate, Java 6, Maven, Jetty, Junit,
     EasyMock, Oracle, framework Java propriétaire
 
 2009 - 2013
 
-    KleeGroup (Le Plessis-Robinson, 92)
+    KleeGroup Le Plessis-Robinson, 92
 
     Participation à la conception technique et au développement
     d’applications de gestion
