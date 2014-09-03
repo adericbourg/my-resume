@@ -3717,13 +3717,20 @@ dd h3 small {
 dd h4 {
     font-size: 17px;
     font-weight: bold;
+    margin-top: 10px;
 }
 
 dd h4 small {
     font-weight: normal;
     font-size: 100%;
-    display: inline-block;
-    padding: 10px 0;
+    white-space: nowrap;
+    display: block;
+    margin: 10px 0 15px 0;
+}
+
+dd h4 small:before {
+    content: "► ";
+    visibility: hidden;
 }
 
 dd h4:before {
@@ -3741,7 +3748,7 @@ dd {
     margin-left: 17%;
 }
 
-p {
-    margin-top: 0;
-    margin-bottom: 7px;
+p, ul {
+    line-height: 1.4;
+    margin-bottom: 5px;
 }
