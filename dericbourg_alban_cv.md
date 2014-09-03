@@ -54,7 +54,7 @@ Depuis 2013
     
     Environnement : .Net 4 (framework propriétaire), SQL Server 2008R2, Visual Studio 2010, PowerDesigner, CruiseControl, TFS
 
-    #### Spark Archives (février - avril 2012)
+    #### Spark Archives (février - avril 2012) <small>Ingénieur études et développement</small>
 
     Progiciel de gestion d'archives
 
@@ -140,5 +140,5 @@ Musique
 ----
 
 > Alban Dericbourg • 29 ans\
-> 38 rue Richard Lenoir, 75011, Paris\
+> 38 rue Richard Lenoir &ndash; 75011 Paris\
 > 06 61 24 71 74 • <alban@dericbourg.net> • [&#64;adericbourg](https://twitter.com/adericbourg) 
