@@ -13,7 +13,14 @@ Expérience professionnelle
 Depuis 2013
 :   ### Ippon technologies <small>Paris</small>
 
-    #### Darty (depuis juil. 2013) <small>Ingénieur études et développement</small>
+	#### RATP (depuis oct. 2014) <small>Ingénieur études et développement</small>
+
+	* Refonte de l'usine logicielle
+	* Maintien / évolution du socle technique « application web »
+
+	Environnement : Jenkins, Sonar, Artifactory, Redmine, Android, Play! Framework
+
+    #### Darty (juil. 2013 - oct. 2014) <small>Ingénieur études et développement</small>
 
     * Participation à la refonte du SI en micro-services :
         - Brique de disponibilité (capacité de Darty à fournir les produits aux clients) avec forte contrainte de performances
