@@ -1,19 +1,16 @@
+Alban Dericbourg
+================
 
-
-ALBAN DERICBOURG
-
-
-------------------------------------------------------------------------
+* * * * *
 
   Ingénieur Arts et Métiers ParisTech (ENSAM) - Supélec
 
-------------------------------------------------------------------------
-
+* * * * *
 
 Expérience professionnelle
+--------------------------
 
 Depuis 2013
-
     Ippon technologies Paris
 
     Darty (depuis juil. 2013) Ingénieur études et développement
@@ -37,7 +34,6 @@ Depuis 2013
     EasyMock, Oracle, framework Java propriétaire
 
 2009 - 2013
-
     KleeGroup Le Plessis-Robinson, 92
 
     Participation à la conception technique et au développement
@@ -91,17 +87,17 @@ Depuis 2013
         plateforme d’intégration continue (Jenkins, Sonar, Squale)
 
 2009
-
     Supélec
 
-    Portage des stratégies de groupe de Microsoft Windows au monde Unix.
+    Portage des stratégies de groupe de Microsoft Windows au monde
+    Unix.  
     Projet de 250 heures, conception, développement et livraison d’un «
     noyau » et d’un plugin.
 
     Environnement : Python, OpenLDAP, SVN
 
-
 Formation
+---------
 
 Mai 2014
     M101J: MongoDB for Java Developers
@@ -114,9 +110,9 @@ Décembre 2009
 
 2007 - 2009
     École Supérieure d’Électricité (Supélec), campus de Gif-sur-Yvette
-    (91)
-    Option de dernière année à Rennes (35) en SYSTÈMES D’INFORMATIONS
-    SÉCURISÉS
+    (91)  
+    Option de dernière année à Rennes (35) en Systèmes d’Informations
+    Sécurisés
 
 2005 - 2007
     École Nationale Supérieure d’Arts et Métiers} d’Angers (ENSAM)
@@ -125,23 +121,24 @@ Décembre 2009
     Classe préparatoire aux grandes écoles (lycée Montesquieu, Le Mans),
     PCSI/PSI
 
-
 Compétences
+-----------
 
 Informatique
-    Langages : Java, C#, Python, SQL, shell (Bash), HTML, CSS
-    Systèmes d’exploitation : Unix/Linux (Arch, Debian, CentOS), Windows
-    Frameworks : Spring, Guice, Jersey, JPA, Play!, AngularJS, JQuery
+    Langages : Java, C#, Python, SQL, shell (Bash), HTML, CSS  
+    Systèmes d’exploitation : Unix/Linux (Arch, Debian, CentOS),
+    Windows  
+    Frameworks : Spring, Guice, Jersey, JPA, Play!, AngularJS, JQuery  
     Outils : Maven, Ant, SVN, Git, TFS, Hudson/Jenkins, Sonar, Nexus
-    SGBD : Oracle, MySQL, SQL Server, MongoDB
+    SGBD : Oracle, MySQL, SQL Server, MongoDB  
     Serveurs applicatifs : Jetty, Tomcat, Microsoft IIS
 
 Langues
-    Anglais : bon niveau oral et écrit (TOEIC : 875)
+    Anglais : bon niveau oral et écrit (TOEIC : 875)  
     Espagnol : scolaire (lu, écrit)
 
-
 Événements
+----------
 
 Mai 2014
     Participation à dotScale
@@ -155,15 +152,15 @@ Décembre 2013
 Mars 2013
     Participation à Devoxx France (3j.)
 
-
 Divers
+------
 
 Musique
-    Pratique de la guitare (20 ans)
+    Pratique de la guitare (20 ans)  
     Groupe de musique (15 ans)
 
-------------------------------------------------------------------------
+* * * * *
 
-  Alban Dericbourg • 29 ans
-  38 rue Richard Lenoir – 75011 Paris
+  Alban Dericbourg • 29 ans  
+  38 rue Richard Lenoir – 75011 Paris  
   06 61 24 71 74 • alban@dericbourg.net • @adericbourg
