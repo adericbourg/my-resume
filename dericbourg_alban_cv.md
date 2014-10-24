@@ -10,7 +10,7 @@ Alban Dericbourg
 Expérience professionnelle
 --------------------------
 
-Depuis 2013
+Depuis 2012
 :   ### Ippon technologies <small>Paris</small>
 
 	#### RATP (depuis oct. 2014) <small>Ingénieur études et développement</small>
@@ -35,12 +35,12 @@ Depuis 2013
 
     Environnement : Spring, Hibernate, Java 6, Maven, Jetty, Junit, EasyMock, Oracle, framework Java propriétaire
 
-2009 - 2013
+2009 - 2012
 :   ### KleeGroup <small>Le Plessis-Robinson, 92</small>
 
     Participation à la conception technique et au développement d'applications de gestion
 
-    #### Archives Nationales (2009 - 2013) <small>Ingénieur études et développement puis référent technique</small>
+    #### Archives Nationales (2009 - 2012) <small>Ingénieur études et développement puis référent technique</small>
 
     Application de gestion des archives (précédé d'une application d'assistance au déménagement)
 
@@ -72,7 +72,7 @@ Depuis 2013
 
     #### Transverse
 
-    * 2011 - 2013 : participation au groupe de réflexion sur l'innovation interne (méthodes, recrutement, technique)
+    * 2011 - 2012 : participation au groupe de réflexion sur l'innovation interne (méthodes, recrutement, technique)
     * Juillet 2012 : mise en place du prototype d'une nouvelle plateforme d'intégration continue (Jenkins, Sonar, Squale)
 
 2009
