@@ -116,7 +116,7 @@ Informatique
 :   Langages : Java, C#, Python, SQL, shell (Bash), HTML, CSS\
     Systèmes d'exploitation : Unix/Linux (Arch, Debian, CentOS), Windows\
     Frameworks : Spring, Guice, Jersey, JPA, Play!, AngularJS, JQuery\
-    Outils : Maven, Ant, SVN, Git, TFS, Hudson/Jenkins, Sonar, Nexus\
+    Outils : Maven, Ant, SVN, Git, Jenkins, Sonar, Nexus, Docker\
     SGBD : Oracle, MySQL, SQL Server, MongoDB\
     Serveurs applicatifs : Jetty, Tomcat, Microsoft IIS
 
