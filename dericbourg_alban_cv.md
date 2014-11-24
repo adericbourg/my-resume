@@ -16,9 +16,11 @@ Depuis 2012
 	#### RATP (depuis oct. 2014) <small>Ingénieur études et développement</small>
 
 	* Refonte de l'usine logicielle
-	* Maintien / évolution du socle technique « application web »
+        - Mise en place et adaptation aux contraintes d'exploitation
+        - Définition des processus en concertation avec les utilisateurs
+    * Évolutions et support sur l'application « blanche » (*template* des applications Play!)
 
-	Environnement : Jenkins, Sonar, Artifactory, Redmine, Android, Play! Framework
+	Environnement : Git, Jenkins, Sonar, Artifactory, Redmine, Gitlab, Android, Play! Framework
 
     #### Darty (juil. 2013 - oct. 2014) <small>Ingénieur études et développement</small>
 
