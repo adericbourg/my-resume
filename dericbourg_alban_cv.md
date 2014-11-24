@@ -117,7 +117,7 @@ Informatique
     Systèmes d'exploitation : Unix/Linux (Arch, Debian, CentOS), Windows\
     Frameworks : Spring, Guice, Jersey, JPA, Play!, AngularJS, JQuery\
     Outils : Maven, Ant, SVN, Git, Jenkins, Sonar, Nexus, Docker\
-    SGBD : Oracle, MySQL, SQL Server, MongoDB\
+    SGBD : Oracle, MySQL, PostgreSQL, SQL Server, MongoDB\
     Serveurs applicatifs : Jetty, Tomcat, Microsoft IIS
 
 Langues
