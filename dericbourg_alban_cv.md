@@ -103,7 +103,7 @@ Décembre 2009
     Option de dernière année à Rennes (35) en **Systèmes d'Informations Sécurisés**
 
 2005 - 2007
-:   École Nationale Supérieure d'Arts et Métiers} d'Angers (**ENSAM**)
+:   École Nationale Supérieure d'Arts et Métiers d'Angers (**ENSAM**)
 
 2003 - 2005
 :   Classe préparatoire aux grandes écoles (lycée Montesquieu, Le Mans), PCSI/PSI
