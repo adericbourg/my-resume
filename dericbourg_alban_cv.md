@@ -113,7 +113,7 @@ Compétences
 -----------
 
 Informatique
-:   Langages : Java, C#, Python, SQL, shell (Bash), HTML, CSS\
+:   Langages : Java, Scala, C#, Python, SQL, shell (Bash), HTML, CSS\
     Systèmes d'exploitation : Unix/Linux (Arch, Debian, CentOS), Windows\
     Frameworks : Spring, Guice, Jersey, JPA, Play!, AngularJS, JQuery\
     Outils : Maven, Ant, SVN, Git, Jenkins, Sonar, Nexus, Docker\
