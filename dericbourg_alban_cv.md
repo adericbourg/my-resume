@@ -18,9 +18,9 @@ Depuis 2012
 	* Refonte de l'usine logicielle
         - Mise en place et adaptation aux contraintes d'exploitation
         - Définition des processus en concertation avec les utilisateurs
-    * Évolutions et support sur l'application « blanche » (*template* des applications Play!)
+    * Évolutions et support sur l'application « blanche » (*template* des applications Play)
 
-	Environnement : Git, Jenkins, Sonar, Artifactory, Redmine, Gitlab, Android, Play! Framework
+	Environnement : Git, Jenkins, Sonar, Artifactory, Redmine, Gitlab, Android, Play Framework
 
     #### Darty (juil. 2013 - oct. 2014) <small>Ingénieur études et développement</small>
 
@@ -115,7 +115,7 @@ Compétences
 Informatique
 :   Langages : Java, Scala, C#, Python, SQL, shell (Bash), HTML, CSS\
     Systèmes d'exploitation : Unix/Linux (Arch, Debian, CentOS), Windows\
-    Frameworks : Spring, Guice, Jersey, JPA, Play!, AngularJS, JQuery\
+    Frameworks : Spring, Guice, Jersey, JPA, Play, AngularJS, JQuery\
     Outils : Maven, Ant, SVN, Git, Jenkins, Sonar, Nexus, Docker\
     SGBD : Oracle, MySQL, PostgreSQL, SQL Server, MongoDB\
     Serveurs applicatifs : Jetty, Tomcat, Microsoft IIS
