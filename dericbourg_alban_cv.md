@@ -127,6 +127,9 @@ Langues
 
 Événements
 ----------
+Avril 2015
+:   Participation à Devoxx France (3j.)
+
 Mai 2014
 :   Participation à dotScale
 
