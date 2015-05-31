@@ -10,10 +10,10 @@ Alban Dericbourg
 Expérience professionnelle
 --------------------------
 
-Depuis 2012
+2012 - 2015
 :   ### Ippon technologies <small>Paris</small>
 
-	#### RATP (depuis oct. 2014) <small>Ingénieur études et développement</small>
+	#### RATP (oct. 2014 - avril 2015) <small>Ingénieur études et développement</small>
 
 	* Refonte de l'usine logicielle
         - Mise en place et adaptation aux contraintes d'exploitation
