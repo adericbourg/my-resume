@@ -10,6 +10,15 @@ Alban Dericbourg
 Expérience professionnelle
 --------------------------
 
+Depuis 2015
+:   ### Spideo <small>Paris</small>
+    Solution de recommandation de contenus vidéo (VoD et TV) par similarité et par profil.
+
+    * Évolutions et maintenance des APIs utilisées par les fournisseurs de contenu
+    * Mise en place du déploiement automatique
+
+    Environnement : Java 7/8, Jersey, MongoDB, Guice, Cassandra, Kafka, Ansible, AWS, Git
+
 2012 - 2015
 :   ### Ippon technologies <small>Paris</small>
 
