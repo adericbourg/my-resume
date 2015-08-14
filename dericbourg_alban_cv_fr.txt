@@ -1,0 +1,116 @@
+Alban Dericbourg
+Ingénieur Arts et Métiers ParisTech (ENSAM) –Í
+Supélec
+
+38 rue Richard Lenoir
+75011 Paris
+H 06 61 24 71 74
+B alban@dericbourg.net
+http://www.dericbourg.net
+30 ans – Permis B
+
+Expérience professionnelle
+Depuis 2015 Spideo, Paris.
+Solution de recommandation de contenus vidéo (VoD et TV) par similarité et par profil.
+{ Évolutions et maintenance des APIs utilisées par les fournisseurs de contenu
+{ Mise en place du déploiement automatique
+Environnement : Java 7/8, Jersey, MongoDB, Guice, Cassandra, Kafka, Ansible, AWS, Git
+
+Oct. 2014 – RATP, pratation pour Ippon Technologies, Noisy-le-Grand (93).
+avr. 2015 { Refonte de l’usine logicielle
+
+- Mise en place et adaptation aux contraintes d’exploitation
+- Définition des processus en concertation avec les utilisateurs
+{ Évolutions et support sur l’application « blanche » (template des applications Play)
+Environnement : Git, Jenkins, Sonar, Artifactory, Redmine, Gitlab, Android, Play Framework
+
+Juil. 2013 – Darty, prestation pour Ippon Technologies, Bagnolet (93).
+oct. 2014 { Participation à la refonte du SI en micro-services
+
+- Brique de disponibilité (capacité de Darty à fournir les produits aux clients) avec forte
+contrainte de performances
+
+- Brique OMS (gestion du cycle de vie des commandes)
+{ Mise en place de monitoring (logs et métriques applicatives)
+Environnement : Dropwizard, Guice, Java 7, FreeMarker, Guava, Jackson, Jersey, JDBI,
+Maven, Gradle, DB2, YourKit, Google Charts, AngularJS, Grunt, Bower, Liquibase, Elasticsearch, Logstash, Kibana, Graphite
+
+Déc. 2012 – Digiplug, prestation pour Ippon Technologies, Paris.
+juil. 2013 Application de gestion des sorties d’œuvres du catalogue UMGI.
+Environnement : Spring, Hibernate, Java 6, Maven, Jetty, Junit, EasyMock, Oracle, framework
+Java propriétaire
+
+2009 – 2012 Archives Nationales, prestation pour Kleegroup, Le Plessis Robinson (92).
+Application de gestion des archives (précédé d’une application d’assistance au déménagement)
+{ Développement des modules fonctionnels
+{ Administration système des machines virtuelles de développement et d’intégration
+{ Intégration graphique
+{ Industrialisation (écriture de générateurs de code, automatisation de tâches récurrentes)
+Environnement : Java 6 (framework propriétaire), Tomcat / JBoss, Maven 2, Solr, Oracle,
+Subversion, .Net 3.5 compact sur périphériques mobiles
+
+2011 – 2012 Vinci PARK, prestation pour KleeGroup, Le Plessis Robinson (92).
+Application de gestion des clients, des offres et de la comptabilité
+{ Garant du modèle de données et de la qualité du code (accompagnement des développeurs,
+écriture de règles FxCop, relecture de code
+{ Mise en place du framework de tests (basé sur MsTest)
+{ Participation à la mise en place de l’environnement technique (cluster Windows, cluster
+SQL Server, Hyper-V / Virtual Machine Manager)
+Environnement : .Net 4 (framework propriétaire), SQL Server 2008R2, Visual Studio 2010,
+PowerDesigner, CruiseControl, TFS
+
+Fév. – avr. Spark Archives, filiale de KleeGroup, Le Plessis Robinson (92).
+2012 Progiciel de gestion d’archives
+{ Conception technique de l’interface entre l’application de gestion et les périphériques mobiles
+{ Participation au développement de la logique métier associée
+
+2009 – 2012 Supélec, Rennes.
+Portage des stratégies de groupe de Microsoft Windows au monde Unix.
+Projet de 250 heures, conception, développement et livraison d’un « noyau » et d’un plugin.
+Environnement : Python, OpenLDAP, SVN
+
+Formation
+2014 M101J: MongoDB for Java Developers
+2007 – 2009 École Supérieure d’Électricité (Supélec), campus de Gif-sur-Yvette. Option de dernière
+année à Rennes (35) en Systèmes d’Informations Sécurisés
+2005 – 2007 École Nationale Supérieure d’Arts et Métiers d’Angers (ENSAM), Angers
+2003 – 2005 Classe préparatoire aux grandes écoles, lycée Montesquieu, Le Mans, PCSI/PSI
+
+Événements
+Avril 2015 Devoxx France (3j.)
+Avril 2014 Devoxx France (2j.)
+Mars 2013 Devoxx France (3j.)
+
+Mai 2014 dotScale
+Décembre 2013 dotJS
+
+Compétences
+Informatique
+Langages
+Web
+Frameworks
+Outils
+SGBD
+
+Java, Scala, C, Python, SQL, shell (Bash)
+HTML/XHTML, CSS
+Spring, Guice, Jersey, Play, AngularJS, JQuery
+Maven, Git, SVN, Jenkins, Sonar, Nexus, Artifactory, Docker
+Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra
+
+Serveurs Jetty, Tomcat, Microsoft IIS
+applicatifs
+Systèmes Unix/Linux (Arch, Debian, CentOS), Windows
+d’exploitation
+
+Langues
+Anglais bon niveau oral et écrit
+Espagnol Scolaire (lu, écrit, compréhension orale basique)
+
+Divers
+Musique Pratique de la guitare (20 ans)
+Groupe de musique (15 ans)
+
+TOEIC : 875
+
+

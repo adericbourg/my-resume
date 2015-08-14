@@ -1,0 +1,128 @@
+\documentclass[11pt,a4paper]{moderncv}
+\moderncvtheme[blue]{classic}
+\usepackage[utf8]{inputenc}
+\usepackage[top=1.1cm, bottom=1.1cm, left=2cm, right=2cm]{geometry}
+\usepackage{amssymb}
+
+
+% Largeur de la colonne pour les dates
+\setlength{\hintscolumnwidth}{2.5cm}
+
+\firstname{Alban}
+\familyname{Dericbourg}
+\title{Ingénieur Arts et Métiers ParisTech (ENSAM) -- Supélec}
+\address{38 rue Richard Lenoir}{75011 Paris}
+\email{alban@dericbourg.net}
+\homepage{http://www.dericbourg.net}
+\mobile{06 61 24 71 74}
+\extrainfo{30 ans -- Permis B}
+\begin{document}
+\maketitle
+
+\section{Expérience professionnelle}
+\cventry{Depuis 2015}{Spideo}{}{Paris}{}{
+  Solution de recommandation de contenus vidéo (VoD et TV) par similarité et par profil.
+  \begin{itemize}
+    \item Évolutions et maintenance des APIs utilisées par les fournisseurs de contenu
+    \item Mise en place du déploiement automatique
+  \end{itemize}
+  Environnement : Java 7/8, Jersey, MongoDB, Guice, Cassandra, Kafka, Ansible, AWS, Git
+}
+
+\cventry{Oct. 2014 -- avr. 2015}{RATP}{pratation pour Ippon Technologies}{Noisy-le-Grand (93)}{}{
+  \begin{itemize}%
+    \item Refonte de l'usine logicielle
+    \begin{itemize}
+      \item Mise en place et adaptation aux contraintes d'exploitation
+      \item Définition des processus en concertation avec les utilisateurs
+    \end{itemize}
+    \item Évolutions et support sur l'application « blanche » (\emph{template} des applications Play)
+  \end{itemize}
+  Environnement : Git, Jenkins, Sonar, Artifactory, Redmine, Gitlab, Android, Play Framework
+}
+
+\cventry{Juil. 2013 -- oct. 2014}{Darty}{prestation pour Ippon Technologies}{Bagnolet (93)}{}{
+  \begin{itemize}%
+    \item Participation à la refonte du SI en micro-services
+    \begin{itemize}
+      \item Brique de disponibilité (capacité de Darty à fournir les produits aux clients) avec forte contrainte de performances
+      \item Brique OMS (gestion du cycle de vie des commandes)
+    \end{itemize}
+    \item Mise en place de monitoring (logs et métriques applicatives)
+  \end{itemize}
+  Environnement : Dropwizard, Guice, Java 7, FreeMarker, Guava, Jackson, Jersey, JDBI, Maven, Gradle, DB2, YourKit, Google Charts, AngularJS, Grunt, Bower, Liquibase, Elasticsearch, Logstash, Kibana, Graphite
+}
+
+\cventry{Déc. 2012 -- juil. 2013}{Digiplug}{prestation pour Ippon Technologies}{Paris}{}{
+  Application de gestion des sorties d'œuvres du catalogue UMGI.\newline{}
+  Environnement : Spring, Hibernate, Java 6, Maven, Jetty, Junit, EasyMock, Oracle, framework Java propriétaire
+}
+
+\cventry{2009 -- 2012}{Archives Nationales}{prestation pour Kleegroup}{Le Plessis Robinson (92)}{}{
+  Application de gestion des archives (précédé d'une application d'assistance au déménagement)
+  \begin{itemize}
+    \item Développement des modules fonctionnels
+    \item Administration système des machines virtuelles de développement et d'intégration
+    \item Intégration graphique
+    \item Industrialisation (écriture de générateurs de code, automatisation de tâches récurrentes)
+  \end{itemize}
+  Environnement : Java 6 (framework propriétaire), Tomcat / JBoss, Maven 2, Solr, Oracle, Subversion, .Net 3.5 compact sur périphériques mobiles
+}
+
+\cventry{2011 -- 2012}{Vinci PARK}{prestation pour KleeGroup}{Le Plessis Robinson (92)}{}{
+  Application de gestion des clients, des offres et de la comptabilité
+  \begin{itemize}
+    \item Garant du modèle de données et de la qualité du code (accompagnement des développeurs, écriture de règles FxCop, relecture de code
+    \item Mise en place du framework de tests (basé sur MsTest)
+    \item Participation à la mise en place de l'environnement technique (cluster Windows, cluster SQL Server, Hyper-V / Virtual Machine Manager)
+  \end{itemize}
+  Environnement : .Net 4 (framework propriétaire), SQL Server 2008R2, Visual Studio 2010, PowerDesigner, CruiseControl, TFS
+}
+
+\cventry{Fév. -- avr. 2012}{Spark Archives}{filiale de KleeGroup}{Le Plessis Robinson (92)}{}{
+  Progiciel de gestion d'archives
+  \begin{itemize}
+    \item Conception technique de l'interface entre l'application de gestion et les périphériques mobiles
+    \item Participation au développement de la logique métier associée
+  \end{itemize}
+}
+
+\cventry{2009 -- 2012}{Supélec}{}{Rennes}{}{
+  Portage des stratégies de groupe de Microsoft Windows au monde Unix.\newline{}
+  Projet de 250 heures, conception, développement et livraison d'un « noyau » et d'un plugin.\newline{}
+  Environnement : Python, OpenLDAP, SVN
+}
+
+\section{Formation}
+\cvitem{2014}{M101J: MongoDB for Java Developers}{}{}{}{}
+\cvitem{2007 -- 2009}{École Supérieure d'Électricité (Supélec), campus de Gif-sur-Yvette. Option de dernière année à Rennes (35) en Systèmes d'Informations Sécurisés}
+\cvitem{2005 -- 2007}{École Nationale Supérieure d'Arts et Métiers d'Angers (ENSAM), Angers}
+\cvitem{2003 -- 2005}{Classe préparatoire aux grandes écoles, lycée Montesquieu, Le Mans, PCSI/PSI}
+
+\section{Événements}
+\cvdoubleitem{Avril 2015}{Devoxx France (3j.)}{Mai 2014}{ dotScale}
+\cvdoubleitem{Avril 2014}{Devoxx France (2j.)}{Décembre 2013}{dotJS}
+\cvitem{Mars 2013}{Devoxx France (3j.)}
+
+
+\section{Compétences}
+\subsection{Informatique}
+\cvitem{Langages}{Java, Scala, C, Python, SQL, shell (Bash)}
+\cvitem{Web}{HTML/XHTML, CSS}
+\cvitem{Frameworks}{Spring, Guice, Jersey, Play, AngularJS, JQuery}
+\cvitem{Outils}{Maven, Git, SVN, Jenkins, Sonar, Nexus, Artifactory, Docker}
+\cvitem{SGBD}{Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra}
+\cvitem{Serveurs applicatifs}{Jetty, Tomcat, Microsoft IIS}
+\cvitem{Systèmes d'exploitation}{Unix/Linux (Arch, Debian, CentOS), Windows}
+
+\subsection{Langues}
+\cvitemwithcomment{Anglais}{bon niveau oral et écrit}{TOEIC : 875}
+\cvitem{Espagnol}{Scolaire (lu, écrit, compréhension orale basique)}
+
+\section{Divers}
+\cvitem{Musique}{
+  Pratique de la guitare (20 ans)\newline{}
+  Groupe de musique (15 ans)
+}
+
+\end{document}
