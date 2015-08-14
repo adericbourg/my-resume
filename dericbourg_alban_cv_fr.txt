@@ -17,7 +17,7 @@ Solution de recommandation de contenus vidéo (VoD et TV) par similarité et par
 { Mise en place du déploiement automatique
 Environnement : Java 7/8, Jersey, MongoDB, Guice, Cassandra, Kafka, Ansible, AWS, Git
 
-Oct. 2014 – RATP, pratation pour Ippon Technologies, Noisy-le-Grand (93).
+Oct. 2014 – RATP, prestation pour Ippon Technologies, Noisy-le-Grand (93).
 avr. 2015 { Refonte de l’usine logicielle
 
 - Mise en place et adaptation aux contraintes d’exploitation
@@ -42,7 +42,7 @@ Environnement : Spring, Hibernate, Java 6, Maven, Jetty, Junit, EasyMock, Oracle
 Java propriétaire
 
 2009 – 2012 Archives Nationales, prestation pour Kleegroup, Le Plessis Robinson (92).
-Application de gestion des archives (précédé d’une application d’assistance au déménagement)
+Application de gestion des archives (précédé d’une application d’assistance au déménagement).
 { Développement des modules fonctionnels
 { Administration système des machines virtuelles de développement et d’intégration
 { Intégration graphique
@@ -51,23 +51,24 @@ Environnement : Java 6 (framework propriétaire), Tomcat / JBoss, Maven 2, Solr,
 Subversion, .Net 3.5 compact sur périphériques mobiles
 
 2011 – 2012 Vinci PARK, prestation pour KleeGroup, Le Plessis Robinson (92).
-Application de gestion des clients, des offres et de la comptabilité
+Application de gestion des clients, des offres et de la comptabilité.
 { Garant du modèle de données et de la qualité du code (accompagnement des développeurs,
-écriture de règles FxCop, relecture de code
+écriture de règles FxCop, relecture de code)
 { Mise en place du framework de tests (basé sur MsTest)
 { Participation à la mise en place de l’environnement technique (cluster Windows, cluster
 SQL Server, Hyper-V / Virtual Machine Manager)
 Environnement : .Net 4 (framework propriétaire), SQL Server 2008R2, Visual Studio 2010,
 PowerDesigner, CruiseControl, TFS
 
-Fév. – avr. Spark Archives, filiale de KleeGroup, Le Plessis Robinson (92).
-2012 Progiciel de gestion d’archives
+Fév. – avr. Spark Archives, éditeur de logiciel, filiale de KleeGroup, Le Plessis Robinson (92).
+2012 Progiciel de gestion d’archives.
 { Conception technique de l’interface entre l’application de gestion et les périphériques mobiles
 { Participation au développement de la logique métier associée
 
 2009 – 2012 Supélec, Rennes.
 Portage des stratégies de groupe de Microsoft Windows au monde Unix.
-Projet de 250 heures, conception, développement et livraison d’un « noyau » et d’un plugin.
+Projet de 250 heures, conception, développement et livraison d’un « noyau » et d’un plugin
+sous licence libre
 Environnement : Python, OpenLDAP, SVN
 
 Formation
