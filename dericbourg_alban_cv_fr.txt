@@ -15,23 +15,26 @@ Depuis avr. Spideo, Paris.
 2015 Solution de recommandation de contenus vidéo (VoD et TV) par similarité et par profil.
 { Évolutions et maintenance des APIs utilisées par les fournisseurs de contenu
 { Mise en place du déploiement automatique
-Environnement : Java 7/8, Jersey, Guice, MongoDB, Cassandra, Elasticsearch, Kafka, Ansible,
-AWS, Git
+Environnement : Java 7/8, Jersey, Guice, MongoDB, Cassandra, Elasticsearch, Kafka,
+Ansible, AWS, Git
 
 Oct. 2014 – RATP, prestation pour Ippon Technologies, Noisy-le-Grand (93).
 avr. 2015 { Refonte de l’usine logicielle
 
-- Mise en place et adaptation aux contraintes d’exploitation
-- Définition des processus en concertation avec les utilisateurs
+-
+
+Mise en place et adaptation aux contraintes d’exploitation
+Définition des processus en concertation avec les utilisateurs
 { Évolutions et support sur l’application « blanche » (template des applications Play)
 Environnement : Git, Jenkins, Sonar, Artifactory, Redmine, Gitlab, Android, Play Framework
 
 Juil. 2013 – Darty, prestation pour Ippon Technologies, Bagnolet (93).
 oct. 2014 { Participation à la refonte du SI en micro-services
 
-- Brique de disponibilité (capacité de Darty à fournir les produits aux clients) avec forte
-contrainte de performances
+-
 
+Brique de disponibilité (capacité de Darty à fournir les produits aux clients) avec forte
+contrainte de performances
 - Brique OMS (gestion du cycle de vie des commandes)
 { Mise en place de monitoring (logs et métriques applicatives)
 Environnement : Dropwizard, Guice, Java 7, FreeMarker, Guava, Jackson, Jersey, JDBI,
@@ -39,8 +42,8 @@ Maven, Gradle, DB2, YourKit, Google Charts, AngularJS, Grunt, Bower, Liquibase, 
 
 Déc. 2012 – Digiplug, prestation pour Ippon Technologies, Paris.
 juil. 2013 Application de gestion des sorties d’œuvres du catalogue UMGI.
-Environnement : Spring, Hibernate, Java 6, Maven, Jetty, Junit, EasyMock, Oracle, framework
-Java propriétaire
+Environnement : Spring, Hibernate, Java 6, Maven, Jetty, Junit, EasyMock, Oracle,
+framework Java propriétaire
 
 2009 – 2012 Archives Nationales, prestation pour Klee Group, Le Plessis Robinson (92).
 Application de gestion des archives (précédé d’une application d’assistance au déménagement).
@@ -61,13 +64,14 @@ SQL Server, Hyper-V / Virtual Machine Manager)
 Environnement : .Net 4 (framework propriétaire), SQL Server 2008R2, Visual Studio 2010,
 PowerDesigner, CruiseControl, TFS
 
-Fév. – avr. Spark Archives, éditeur de logiciel, filiale de Klee Group, Le Plessis Robinson (92).
+Fév. – avr. Spark Archives, éditeur de logiciel, filiale de Klee Group, Le Plessis Robinson (92).
 2012 Progiciel de gestion d’archives.
-{ Conception technique de l’interface entre l’application de gestion et les périphériques mobiles
+{ Conception technique de l’interface entre l’application de gestion et les périphériques
+mobiles
 { Participation au développement de la logique métier associée
 Environnement : Java 7 (framework propriétaire), Jersey, Oracle
 
-2009 Supélec, Rennes.
+2009 Supélec, Rennes.
 Portage des stratégies de groupe de Microsoft Windows au monde Unix.
 Projet de 250 heures, conception, développement et livraison d’un « noyau » et d’un plugin
 sous licence libre
@@ -81,12 +85,19 @@ Option de dernière année à Rennes (35) en Systèmes d’Informations Sécuris
 2003 – 2005 Classe préparatoire aux grandes écoles, lycée Montesquieu, Le Mans, PCSI/PSI
 
 Événements
-Juin 2015
-Avril 2015
-Mai 2014
-Avril 2014
-Décembre 2013
-Mars 2013
+Jun.
+Avr.
+Mai
+Avr.
+Déc.
+Mar.
+
+2015
+2015
+2014
+2014
+2013
+2013
 
 dotScale
 Devoxx France (3j.)
@@ -111,8 +122,7 @@ Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra
 
 Serveurs Jetty, Tomcat, Microsoft IIS
 applicatifs
-Systèmes Unix/Linux (Arch, Debian, CentOS), Windows
-d’exploitation
+OS Unix/Linux (Arch, Debian, CentOS), Windows
 
 Langues
 Anglais bon niveau oral et écrit (TOEIC : 875)
