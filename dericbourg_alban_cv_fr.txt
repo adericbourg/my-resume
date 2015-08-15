@@ -8,7 +8,7 @@ Ingénieur ENSAM – Supélec
 H 06 61 24 71 74
 B alban@dericbourg.net
 http://www.dericbourg.net
-30 ans – Permis B
+30 ans
 
 Expérience professionnelle
 Depuis avr. Spideo, Paris.
@@ -125,7 +125,7 @@ applicatifs
 OS Unix/Linux (Arch, Debian, CentOS), Windows
 
 Langues
-Anglais bon niveau oral et écrit (TOEIC : 875)
+Anglais Bon niveau oral et écrit (TOEIC : 875)
 Espagnol Scolaire (lu, écrit, compréhension orale basique)
 
 Divers
