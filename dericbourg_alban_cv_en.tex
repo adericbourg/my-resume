@@ -1,0 +1,136 @@
+\documentclass[12pt,a4paper]{moderncv}
+\moderncvtheme[blue]{classic}
+\usepackage[utf8]{inputenc}
+\usepackage{amssymb}
+
+\usepackage[top=1.1cm, bottom=1.1cm, left=15mm, right=15mm]{geometry}
+\recomputelengths
+
+
+% Largeur de la colonne pour les dates
+\setlength{\hintscolumnwidth}{2.5cm}
+
+\firstname{Alban}
+\familyname{Dericbourg}
+\title{Software engineer\newline{}\small{Graduated from Arts et Métiers ParisTech (ENSAM) and Supélec}}
+\address{38 rue Richard Lenoir}{75011 Paris}
+\email{alban@dericbourg.net}
+\homepage{http://www.dericbourg.net}
+\mobile{(+33) 6 61 24 71 74}
+\extrainfo{30 years-old}
+\begin{document}
+\maketitle
+
+\section{Experience}
+\cventry{Since apr. 2015}{Spideo}{}{Paris}{}{
+  Profile-based and content-based recommendation of video content (VoD and TV).
+  \begin{itemize}
+    \item Development and maintenance of APIs consumed by content providers
+    \item Set-up of configuration management and antimatic deployment
+  \end{itemize}
+  \emph{Environment : Java 7/8, Jersey, Guice, MongoDB, Cassandra, Elasticsearch, Kafka, Ansible, AWS, Git}
+}
+
+\cventry{Oct. 2014 -- apr. 2015}{RATP}{service for Ippon Technologies}{Noisy-le-Grand (93)}{}{
+  \begin{itemize}
+    \item New software factory
+    \begin{itemize}
+      \item Requirements study and implementation
+      \item Process definition with end-users (developers and project managers)
+    \end{itemize}
+    \item Development and maintenance of "white application" (Play \emph{templates})
+  \end{itemize}
+  \emph{Environment : Git, Jenkins, Sonar, Artifactory, Redmine, Gitlab, Android, Play Framework}
+}
+
+\cventry{Jul. 2013 -- oct. 2014}{Darty}{service for Ippon Technologies}{Bagnolet (93)}{}{
+  \begin{itemize}%
+    \item Micro-services refactoring of the information system
+    \begin{itemize}
+      \item "Availability" component (Darty's ability to deliver goods to customers) with high stress constraints
+      \item "OMS" component (order management system)
+    \end{itemize}
+    \item Monitoring set-up (logs and application metrics)
+  \end{itemize}
+  \emph{Environment : Dropwizard, Guice, Java 7, FreeMarker, Guava, Jackson, Jersey, JDBI, Maven, Gradle, DB2, YourKit, Google Charts, AngularJS, Grunt, Bower, Liquibase, Elasticsearch, Logstash, Kibana, Graphite}
+}
+
+\cventry{Dec. 2012 -- jul. 2013}{Digiplug}{service for Ippon Technologies}{Paris}{}{
+  Application to manage releases (clips, albums\dots) from UMGI catalog.\newline{} 
+  \emph{Environment : Spring, Hibernate, Java 6, Maven, Jetty, JUnit, EasyMock, Oracle, framework Java propriétaire}
+}
+
+\cventry{2009 -- 2012}{Archives Nationales}{service for Klee Group}{Le Plessis Robinson (92)}{}{
+  Archive management application (after a one-shot relocation helper application).
+  \begin{itemize}
+    \item Development of business modules
+    \item System administration of virtual machines (development and integration)
+    \item Continuous integration management
+    \item Industrialization (code generators, common tasks automation)
+  \end{itemize}
+  \emph{Environment : Java 6 (proprietary framework), Tomcat / JBoss, Maven 2, Solr, Oracle, Subversion, .Net 3.5 compact on mobile devices}
+}
+
+\cventry{2011 -- 2012}{Vinci PARK}{service for Klee Group}{Le Plessis Robinson (92)}{}{
+  Customer and accounting management application.
+  \begin{itemize}
+    \item Data modeling
+    \item Technical quality manager (developer support, code review, metrics and test framework set-up)
+    \item Took part in technical architecture set-up (Windows cluster, SQL Server cluster, Hyper-V / Virtual Machine Manager)
+  \end{itemize}
+  \emph{Environment : .Net 4 (framework propriétaire), SQL Server 2008R2, Visual Studio 2010, PowerDesigner, CruiseControl, TFS, MsTest}
+}
+
+\cventry{Feb. -- apr. 2012}{Spark Archives}{software editor, Klee Group subsidiary}{Le Plessis Robinson (92)}{}{
+  Archive management sofware.
+  \begin{itemize}
+    \item Design and implementation of APIs consumed by mobile devices
+  \end{itemize}
+  \emph{Environment : Java 7 (framework propriétaire), Jersey, Oracle}
+}
+
+\cventry{2009}{Supélec}{}{Rennes}{}{
+  Port of Microsoft Windows' group policies to Unix.\newline{}
+  250h project, design, implementation and delivery of a core-module and the \emph{motd} plugin. Released as a free software.\newline{}
+  \emph{Environment : Python, OpenLDAP, SVN}
+}
+
+\section{Education}
+\cvitem{2014}{M101J: MongoDB for Java Developers}
+\cvitem{2007 -- 2009}{École Supérieure d'Électricité (Supélec), Gif-sur-Yvette campus. \newline{} Expertise in Secured Information Systems (Rennes, 35)}
+\cvitem{2005 -- 2007}{École Nationale Supérieure d'Arts et Métiers (ENSAM), Angers}
+\cvitem{2003 -- 2005}{Preparatory class, lycée Montesquieu, Le Mans, PCSI/PSI}
+
+\section{Events}
+\cvitem{Jun. 2015}{dotScale}
+\cvitem{Apr. 2015}{Devoxx France (3 days)}
+\cvitem{May 2014}{dotScale}
+\cvitem{Apr. 2014}{Devoxx France (2 days)}
+\cvitem{Dec. 2013}{dotJS}
+\cvitem{Mar. 2013}{Devoxx France (3 days)}
+
+
+\section{Skills}
+\subsection{Computer}
+\cvitem{Languages}{Java, Scala, Python, SQL, shell (Bash)}
+\cvitem{Web}{HTML/XHTML, CSS}
+\cvitem{Frameworks}{Spring, Guice, Jersey, Play, AngularJS, JQuery}
+\cvitem{Tools}{Maven, Git, SVN, Jenkins, Sonar, Nexus, Artifactory, Docker}
+\cvitem{DBMS}{Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra}
+\cvitem{Application servers}{Jetty, Tomcat, Microsoft IIS}
+\cvitem{OS}{Unix/Linux (Arch, Debian, CentOS), Windows}
+
+\subsection{Languages}
+\cvitem{English}{Upper intermediate level (TOEIC : 875)}
+\cvitem{Spanish}{Elementary (read, written, basic listening/speaking)}
+
+\section{Miscellaneous}
+\cvitem{Blogging}{Almost-technical blog (\httplink[dericbourg.net]{http://www.dericbourg.net})}
+\cvitem{Music}{
+  Guitar (over 20 years)\newline{}
+  Playing in a band (15 years)
+}
+\cvitem{Boating}{Boat licence (sea, river)}
+\cvitem{Personnal commitment}{Non-violence, NonViolent Communication}
+
+\end{document}

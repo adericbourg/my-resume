@@ -1,0 +1,137 @@
+Alban Dericbourg
+Software engineer
+Graduated from Arts et Métiers ParisTech (ENSAM) and Supélec
+
+Í
+
+38 rue Richard Lenoir
+75011 Paris
+H (+33) 6 61 24 71 74
+B alban@dericbourg.net
+http://www.dericbourg.net
+30 years-old
+
+Experience
+Since apr. Spideo, Paris.
+2015 Profile-based and content-based recommendation of video content (VoD and TV).
+{ Development and maintenance of APIs consumed by content providers
+{ Set-up of configuration management and antimatic deployment
+Environment : Java 7/8, Jersey, Guice, MongoDB, Cassandra, Elasticsearch, Kafka, Ansible,
+AWS, Git
+
+Oct. 2014 – RATP, service for Ippon Technologies, Noisy-le-Grand (93).
+apr. 2015 { New software factory
+
+-
+
+Requirements study and implementation
+Process definition with end-users (developers and project managers)
+{ Development and maintenance of "white application" (Play templates)
+Environment : Git, Jenkins, Sonar, Artifactory, Redmine, Gitlab, Android, Play Framework
+
+Jul. 2013 – Darty, service for Ippon Technologies, Bagnolet (93).
+oct. 2014 { Micro-services refactoring of the information system
+
+-
+
+"Availability" component (Darty’s ability to deliver goods to customers) with high
+stress constraints
+- "OMS" component (order management system)
+{ Monitoring set-up (logs and application metrics)
+Environment : Dropwizard, Guice, Java 7, FreeMarker, Guava, Jackson, Jersey, JDBI,
+Maven, Gradle, DB2, YourKit, Google Charts, AngularJS, Grunt, Bower, Liquibase, Elasticsearch, Logstash, Kibana, Graphite
+
+Dec. 2012 – Digiplug, service for Ippon Technologies, Paris.
+jul. 2013 Application to manage releases (clips, albums. . . ) from UMGI catalog.
+Environment : Spring, Hibernate, Java 6, Maven, Jetty, JUnit, EasyMock, Oracle, framework Java propriétaire
+
+2009 – 2012 Archives Nationales, service for Klee Group, Le Plessis Robinson (92).
+Archive management application (after a one-shot relocation helper application).
+{ Development of business modules
+{ System administration of virtual machines (development and integration)
+{ Continuous integration management
+{ Industrialization (code generators, common tasks automation)
+Environment : Java 6 (proprietary framework), Tomcat / JBoss, Maven 2, Solr, Oracle,
+Subversion, .Net 3.5 compact on mobile devices
+
+2011 – 2012 Vinci PARK, service for Klee Group, Le Plessis Robinson (92).
+Customer and accounting management application.
+{ Data modeling
+{ Technical quality manager (developer support, code review, metrics and test framework
+set-up)
+{ Took part in technical architecture set-up (Windows cluster, SQL Server cluster, Hyper-V
+/ Virtual Machine Manager)
+Environment : .Net 4 (framework propriétaire), SQL Server 2008R2, Visual Studio 2010,
+PowerDesigner, CruiseControl, TFS, MsTest
+
+Feb. – apr. Spark Archives, software editor, Klee Group subsidiary, Le Plessis Robinson (92).
+2012 Archive management sofware.
+{ Design and implementation of APIs consumed by mobile devices
+Environment : Java 7 (framework propriétaire), Jersey, Oracle
+
+2009 Supélec, Rennes.
+Port of Microsoft Windows’ group policies to Unix.
+250h project, design, implementation and delivery of a core-module and the motd plugin.
+Released as a free software.
+Environment : Python, OpenLDAP, SVN
+
+Education
+2014 M101J: MongoDB for Java Developers
+2007 – 2009 École Supérieure d’Électricité (Supélec), Gif-sur-Yvette campus.
+Expertise in Secured Information Systems (Rennes, 35)
+2005 – 2007 École Nationale Supérieure d’Arts et Métiers (ENSAM), Angers
+2003 – 2005 Preparatory class, lycée Montesquieu, Le Mans, PCSI/PSI
+
+Events
+Jun.
+Apr.
+May
+Apr.
+Dec.
+Mar.
+
+2015
+2015
+2014
+2014
+2013
+2013
+
+dotScale
+Devoxx France (3 days)
+dotScale
+Devoxx France (2 days)
+dotJS
+Devoxx France (3 days)
+
+Skills
+Computer
+Languages
+Web
+Frameworks
+Tools
+DBMS
+
+Java, Scala, Python, SQL, shell (Bash)
+HTML/XHTML, CSS
+Spring, Guice, Jersey, Play, AngularJS, JQuery
+Maven, Git, SVN, Jenkins, Sonar, Nexus, Artifactory, Docker
+Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra
+
+Application Jetty, Tomcat, Microsoft IIS
+servers
+OS Unix/Linux (Arch, Debian, CentOS), Windows
+
+Languages
+English Upper intermediate level (TOEIC : 875)
+Spanish Elementary (read, written, basic listening/speaking)
+
+Miscellaneous
+Blogging Almost-technical blog (dericbourg.net)
+Music Guitar (over 20 years)
+Playing in a band (15 years)
+Boating Boat licence (sea, river)
+Personnal Non-violence, NonViolent Communication
+commitment
+
+
