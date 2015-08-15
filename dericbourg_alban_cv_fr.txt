@@ -15,7 +15,7 @@ Expérience professionnelle
 Depuis avr. Spideo, Paris.
 2015 Solution de recommandation de contenus vidéo (VoD et TV) par similarité et par profil.
 { Évolutions et maintenance des APIs utilisées par les fournisseurs de contenu
-{ Mise en place du déploiement automatique
+{ Mise en place du déploiement automatique et de la gestion de configuration
 Environnement : Java 7/8, Jersey, Guice, MongoDB, Cassandra, Elasticsearch, Kafka,
 Ansible, AWS, Git
 
@@ -82,7 +82,7 @@ Formation
 2014 M101J: MongoDB for Java Developers
 2007 – 2009 École Supérieure d’Électricité (Supélec), campus de Gif-sur-Yvette.
 Option de dernière année à Rennes (35) en Systèmes d’Informations Sécurisés
-2005 – 2007 École Nationale Supérieure d’Arts et Métiers d’Angers (ENSAM), Angers
+2005 – 2007 École Nationale Supérieure d’Arts et Métiers (ENSAM), Angers
 2003 – 2005 Classe préparatoire aux grandes écoles, lycée Montesquieu, Le Mans, PCSI/PSI
 
 Événements
