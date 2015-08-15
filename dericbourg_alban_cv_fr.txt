@@ -115,7 +115,7 @@ Frameworks
 Outils
 SGBD
 
-Java, Scala, C, Python, SQL, shell (Bash)
+Java, Scala, Python, SQL, shell (Bash)
 HTML/XHTML, CSS
 Spring, Guice, Jersey, Play, AngularJS, JQuery
 Maven, Git, SVN, Jenkins, Sonar, Nexus, Artifactory, Docker
