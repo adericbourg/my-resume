@@ -14,6 +14,7 @@ http://www.dericbourg.net
 Expérience professionnelle
 Depuis avr. Spideo, Paris.
 2015 Solution de recommandation de contenus vidéo (VoD et TV) par similarité et par profil.
+{ Tech lead
 { Évolutions et maintenance des APIs utilisées par les fournisseurs de contenu
 { Mise en place du déploiement automatique et de la gestion de configuration
 Environnement : Java 7/8, Jersey, Guice, MongoDB, Cassandra, Elasticsearch, Kafka,
@@ -55,7 +56,7 @@ Application de gestion des archives (précédé d’une application d’assistan
 Environnement : Java 6 (framework propriétaire), Tomcat / JBoss, Maven 2, Solr, Oracle,
 Subversion, .Net 3.5 compact sur périphériques mobiles
 
-2011 – 2012 Vinci PARK, prestation pour Klee Group, Le Plessis Robinson (92).
+2011 – 2012 Vinci PARK, prestation pour Klee Group, Le Plessis Robinson (92).
 Application de gestion des clients, des offres et de la comptabilité.
 { Garant du modèle de données et de la qualité du code (accompagnement des développeurs,
 écriture de règles FxCop, relecture de code)
@@ -65,7 +66,7 @@ SQL Server, Hyper-V / Virtual Machine Manager)
 Environnement : .Net 4 (framework propriétaire), SQL Server 2008R2, Visual Studio 2010,
 PowerDesigner, CruiseControl, TFS
 
-Fév. – avr. Spark Archives, éditeur de logiciel, filiale de Klee Group, Le Plessis Robinson (92).
+Fév. – avr. Spark Archives, éditeur de logiciel, filiale de Klee Group, Le Plessis Robinson (92).
 2012 Progiciel de gestion d’archives.
 { Conception technique de l’interface entre l’application de gestion et les périphériques
 mobiles
@@ -129,7 +130,7 @@ Langues
 Anglais Bon niveau oral et écrit (TOEIC : 875)
 Espagnol Scolaire (lu, écrit, compréhension orale basique)
 
-Divers
+Divers
 Musique Pratique de la guitare (20 ans)
 Groupe de musique (15 ans)
 Nautisme Permis bateau (mer, rivière)

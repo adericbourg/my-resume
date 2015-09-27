@@ -14,6 +14,7 @@ http://www.dericbourg.net
 Experience
 Since apr. Spideo, Paris.
 2015 Profile-based and content-based recommendation of video content (VoD and TV).
+{ Tech lead
 { Development and maintenance of APIs consumed by content providers
 { Set-up of configuration management and automatic deployment
 Environment : Java 7/8, Jersey, Guice, MongoDB, Cassandra, Elasticsearch, Kafka, Ansible,
