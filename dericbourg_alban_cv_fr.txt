@@ -17,8 +17,8 @@ Depuis avr. Spideo, Paris.
 { Tech lead
 { Évolutions et maintenance des APIs utilisées par les fournisseurs de contenu
 { Mise en place du déploiement automatique et de la gestion de configuration
-Environnement : Java 7/8, Jersey, Guice, MongoDB, Cassandra, Elasticsearch, Kafka,
-Ansible, AWS, Git
+Environnement : Java 7/8, Scala, Jersey, Guice, MongoDB, Cassandra, Elasticsearch,
+Kafka, Ansible, AWS, Git
 
 Oct. 2014 – RATP, prestation pour Ippon Technologies, Noisy-le-Grand (93).
 avr. 2015 { Refonte de l’usine logicielle
