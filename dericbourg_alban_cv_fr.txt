@@ -118,7 +118,7 @@ SGBD
 
 Java, Scala, Python, SQL, shell (Bash)
 HTML/XHTML, CSS
-Spring, Guice, Jersey, Play, AngularJS, JQuery
+Guice, Jersey, Play, AngularJS, JQuery
 Maven, Git, SVN, Jenkins, Sonar, Nexus, Artifactory, Docker
 Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra
 
