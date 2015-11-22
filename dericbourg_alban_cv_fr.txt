@@ -87,6 +87,7 @@ Option de dernière année à Rennes (35) en Systèmes d’Informations Sécuris
 2003 – 2005 Classe préparatoire aux grandes écoles, lycée Montesquieu, Le Mans, PCSI/PSI
 
 Événements
+Déc.
 Jun.
 Avr.
 Mai
@@ -96,11 +97,13 @@ Mar.
 
 2015
 2015
+2015
 2014
 2014
 2013
 2013
 
+API days
 dotScale
 Devoxx France (3j.)
 dotScale
@@ -128,9 +131,10 @@ OS Unix/Linux (Arch, Debian, CentOS), Windows
 
 Langues
 Anglais Bon niveau oral et écrit (TOEIC : 875)
-Espagnol Scolaire (lu, écrit, compréhension orale basique)
 
-Divers
+Espagnol Scolaire (lu, écrit, compréhension orale basique)
+
+Divers
 Musique Pratique de la guitare (20 ans)
 Groupe de musique (15 ans)
 Nautisme Permis bateau (mer, rivière)

@@ -84,6 +84,7 @@ Expertise in Secured Information Systems (Rennes, 35)
 2003 – 2005 Preparatory class, lycée Montesquieu, Le Mans, PCSI/PSI
 
 Events
+Dec.
 Jun.
 Apr.
 May
@@ -93,11 +94,13 @@ Mar.
 
 2015
 2015
+2015
 2014
 2014
 2013
 2013
 
+API days
 dotScale
 Devoxx France (3 days)
 dotScale
