@@ -84,7 +84,6 @@ Formation
 2007 – 2009 École Supérieure d’Électricité (Supélec), campus de Gif-sur-Yvette.
 Option de dernière année à Rennes (35) en Systèmes d’Informations Sécurisés
 2005 – 2007 École Nationale Supérieure d’Arts et Métiers (ENSAM), Angers
-2003 – 2005 Classe préparatoire aux grandes écoles, lycée Montesquieu, Le Mans, PCSI/PSI
 
 Événements
 Déc.
@@ -131,10 +130,9 @@ OS Unix/Linux (Arch, Debian, CentOS), Windows
 
 Langues
 Anglais Bon niveau oral et écrit (TOEIC : 875)
+Espagnol Scolaire (lu, écrit, compréhension orale basique)
 
-Espagnol Scolaire (lu, écrit, compréhension orale basique)
-
-Divers
+Divers
 Musique Pratique de la guitare (20 ans)
 Groupe de musique (15 ans)
 Nautisme Permis bateau (mer, rivière)
