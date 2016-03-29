@@ -12,8 +12,13 @@ http://www.dericbourg.net
 30 ans
 
 Expérience professionnelle
-Depuis avr. Spideo, Paris.
-2015 Solution de recommandation de contenus vidéo (VoD et TV) par similarité et par profil.
+Depuis jan. Criteo, Paris.
+2016 Criteo Dynamic Email : reciblage publicitaire par e-mail.
+{ Développeur
+Environnement: Java 7/8, Scala, Finatra, Spring, SQL Server, Mesos
+
+Avr. 2015 – Spideo, Paris.
+nov. 2015 Solution de recommandation de contenus vidéo (VoD et TV) par similarité et par profil.
 { Tech lead
 { Évolutions et maintenance des APIs utilisées par les fournisseurs de contenu
 { Mise en place du déploiement automatique et de la gestion de configuration

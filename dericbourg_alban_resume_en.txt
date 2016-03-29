@@ -12,8 +12,13 @@ http://www.dericbourg.net
 30 years-old
 
 Experience
-Since apr. Spideo, Paris.
-2015 Profile-based and content-based recommendation of video content (VoD and TV).
+Since jan. Criteo, Paris.
+2016 Criteo Dynamic Email : e-mail retargeting.
+{ Software engineer
+Environnement : Java 7/8, Scala, Finatra, Spring, SQL Server, Mesos
+
+Apr. 2015 – Spideo, Paris.
+nov. 2015 Profile-based and content-based recommendation of video content (VoD and TV).
 { Tech lead
 { Development and maintenance of APIs consumed by content providers
 { Set-up of configuration management and automatic deployment
@@ -55,7 +60,7 @@ Archive management application (after a one-shot relocation helper application).
 Environment : Java 6 (proprietary framework), Tomcat / JBoss, Maven 2, Solr, Oracle,
 Subversion, .Net 3.5 compact on mobile devices
 
-2011 – 2012 Vinci PARK, service for Klee Group, Le Plessis Robinson (92).
+2011 – 2012 Vinci PARK, service for Klee Group, Le Plessis Robinson (92).
 Customer and accounting management application.
 { Data modeling
 { Technical quality manager (developer support, code review, metrics and test framework
@@ -65,7 +70,7 @@ set-up)
 Environment : .Net 4 (framework propriétaire), SQL Server 2008R2, Visual Studio 2010,
 PowerDesigner, CruiseControl, TFS, MsTest
 
-Feb. – apr. Spark Archives, software editor, Klee Group subsidiary, Le Plessis Robinson (92).
+Feb. – apr. Spark Archives, software editor, Klee Group subsidiary, Le Plessis Robinson (92).
 2012 Archive management sofware.
 { Design and implementation of APIs consumed by mobile devices
 Environment : Java 7 (framework propriétaire), Jersey, Oracle
@@ -130,7 +135,8 @@ English Upper intermediate level (TOEIC : 875)
 Spanish Elementary (read, written, basic listening/speaking)
 
 Miscellaneous
-Blogging Almost-technical blog (dericbourg.net)
+
+Blogging Almost-technical blog (dericbourg.net)
 Music Guitar (over 20 years)
 Playing in a band (15 years)
 Boating Boat licence (sea, river)
