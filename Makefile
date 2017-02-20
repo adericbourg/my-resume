@@ -1,12 +1,12 @@
 all: fr en
 
 # French resume
-fr: pdf txt
+fr: pdf_fr txt_fr
 
-pdf: dericbourg_alban_cv_fr.tex
+pdf_fr: dericbourg_alban_cv_fr.tex
 	pdflatex dericbourg_alban_cv_fr.tex
 
-txt: pdf
+txt_fr: pdf
 	pdftotext dericbourg_alban_cv_fr.pdf
 
 # English resume
