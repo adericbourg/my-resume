@@ -13,9 +13,21 @@ http://www.dericbourg.net
 
 Experience
 Since jan. Criteo, Paris.
-2016 Criteo Dynamic Email : e-mail retargeting.
-{ Software engineer
-Environnement : Java 7/8, Scala, Finatra, Spring, SQL Server, Mesos
+2016 { Criteo Dynamic Email: e-mail retargeting (jan. 2016 - feb. 2017)
+
+-
+
+Software engineer in a distributed team (Paris, Bucharest, Grenoble)
+OKR owner: industrialize e-mail templating
+{ Scalability team (since mar. 2017)
+- Team in charge of SDKs for low-latency applications. My work was focused on service
+discovery and application metrics
+- OKR owner: migrate from an in-house metric aggrgation system to Prometheus, define
+and deploy a unique application identifier used in observability services
+- Informal Java / Scala support: entry-point for Scala topics, version upgrade Criteo-wide
+on my own initiative
+Environnement : Java 7/8, Scala, Finatra, Spring, SQL Server, Mesos, C#, Prometheus,
+Consul
 
 Apr. 2015 – Spideo, Paris.
 nov. 2015 Profile-based and content-based recommendation of video content (VoD and TV).
@@ -51,7 +63,7 @@ Dec. 2012 – Digiplug, service for Ippon Technologies, Paris.
 jul. 2013 Application to manage releases (clips, albums. . . ) from UMGI catalog.
 Environment : Spring, Hibernate, Java 6, Maven, Jetty, JUnit, EasyMock, Oracle, framework Java propriétaire
 
-2009 – 2012 Archives Nationales, service for Klee Group, Le Plessis Robinson (92).
+2009 – 2012 Archives Nationales, service for Klee Group, Le Plessis Robinson (92).
 Archive management application (after a one-shot relocation helper application).
 { Development of business modules
 { System administration of virtual machines (development and integration)
@@ -60,7 +72,7 @@ Archive management application (after a one-shot relocation helper application).
 Environment : Java 6 (proprietary framework), Tomcat / JBoss, Maven 2, Solr, Oracle,
 Subversion, .Net 3.5 compact on mobile devices
 
-2011 – 2012 Vinci PARK, service for Klee Group, Le Plessis Robinson (92).
+2011 – 2012 Vinci PARK, service for Klee Group, Le Plessis Robinson (92).
 Customer and accounting management application.
 { Data modeling
 { Technical quality manager (developer support, code review, metrics and test framework
@@ -120,22 +132,20 @@ Languages
 Web
 Frameworks
 Tools
-DBMS
 
 Java, Scala, Python, SQL, shell (Bash)
 HTML/XHTML, CSS
 Guice, Jersey, Play, AngularJS, JQuery
 Maven, Git, SVN, Jenkins, Sonar, Nexus, Artifactory, Docker
-Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra
 
+DBMS Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra
 Application Jetty, Tomcat, Microsoft IIS
 servers
 OS Unix/Linux (Arch, Debian, CentOS), Windows
 
 Languages
 English Upper intermediate level (TOEIC : 875)
-
-Spanish Elementary (read, written, basic listening/speaking)
+Spanish Elementary (read, written, basic listening/speaking)
 
 Miscellaneous
 Blogging Almost-technical blog (dericbourg.net)

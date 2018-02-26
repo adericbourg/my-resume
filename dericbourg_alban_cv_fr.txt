@@ -13,9 +13,22 @@ http://www.dericbourg.net
 
 Expérience professionnelle
 Depuis jan. Criteo, Paris.
-2016 Criteo Dynamic Email : reciblage publicitaire par e-mail.
-{ Développeur
-Environnement: Java 7/8, Scala, Finatra, Spring, SQL Server, Mesos
+2016 { Criteo Dynamic Email : reciblage publicitaire par e-mail (jan. 2016 - fév. 2017)
+
+-
+
+Développeur dans une équipe répartie entre Paris, Grenoble et Bucarest
+OKR owner : industrialisation du templating des e-mails
+{ Équipe scalabilité (depuis mar. 2017)
+- En charge de SDKs destinés aux applications basse-latence (plus particuièrement
+découverte de services et observabilité/métriques)
+- OKR owner : migration d’un outil interne d’agrégation des métriques techniques vers
+Prometheus, définition et déploiement d’un identifiant unique d’application utilisé dans
+les services d’observabilité
+- Support informel Java / Scala : ressource Scala identifiée, montées de versions à
+l’échelle de Criteo à mon initiative
+Environnement: Java 7/8, Scala, Finatra, Spring, SQL Server, Mesos, C#, Prometheus,
+Consul
 
 Avr. 2015 – Spideo, Paris.
 nov. 2015 Solution de recommandation de contenus vidéo (VoD et TV) par similarité et par profil.
@@ -52,7 +65,7 @@ juil. 2013 Application de gestion des sorties d’œuvres du catalogue UMGI.
 Environnement : Spring, Hibernate, Java 6, Maven, Jetty, Junit, EasyMock, Oracle,
 framework Java propriétaire
 
-2009 – 2012 Archives Nationales, prestation pour Klee Group, Le Plessis Robinson (92).
+2009 – 2012 Archives Nationales, prestation pour Klee Group, Le Plessis Robinson (92).
 Application de gestion des archives (précédé d’une application d’assistance au déménagement).
 { Développement des modules fonctionnels
 { Administration système des machines virtuelles de développement et d’intégration
@@ -61,7 +74,7 @@ Application de gestion des archives (précédé d’une application d’assistan
 Environnement : Java 6 (framework propriétaire), Tomcat / JBoss, Maven 2, Solr, Oracle,
 Subversion, .Net 3.5 compact sur périphériques mobiles
 
-2011 – 2012 Vinci PARK, prestation pour Klee Group, Le Plessis Robinson (92).
+2011 – 2012 Vinci PARK, prestation pour Klee Group, Le Plessis Robinson (92).
 Application de gestion des clients, des offres et de la comptabilité.
 { Garant du modèle de données et de la qualité du code (accompagnement des développeurs,
 écriture de règles FxCop, relecture de code)
@@ -119,25 +132,18 @@ Devoxx France (3j.)
 
 Compétences
 Informatique
-Langages
-Web
-Frameworks
-Outils
-SGBD
+Langages Java, Scala, Python, SQL, shell (Bash)
+Web HTML/XHTML, CSS
 
-Java, Scala, Python, SQL, shell (Bash)
-HTML/XHTML, CSS
-Guice, Jersey, Play, AngularJS, JQuery
-Maven, Git, SVN, Jenkins, Sonar, Nexus, Artifactory, Docker
-Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra
-
+Frameworks Guice, Jersey, Play, AngularJS, JQuery
+Outils Maven, Git, SVN, Jenkins, Sonar, Nexus, Artifactory, Docker
+SGBD Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra
 Serveurs Jetty, Tomcat, Microsoft IIS
 applicatifs
 OS Unix/Linux (Arch, Debian, CentOS), Windows
 
 Langues
-
-Anglais Bon niveau oral et écrit (TOEIC : 875)
+Anglais Bon niveau oral et écrit (TOEIC : 875)
 Espagnol Scolaire (lu, écrit, compréhension orale basique)
 
 Divers
