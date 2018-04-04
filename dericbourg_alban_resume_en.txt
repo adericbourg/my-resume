@@ -20,7 +20,7 @@ Since jan. Criteo, Paris.
 Software engineer in a distributed team (Paris, Bucharest, Grenoble)
 OKR owner: industrialize e-mail templating
 { Scalability team (since mar. 2017)
-- Team in charge of SDKs for low-latency applications. My work was focused on service
+- Team in charge of SDKs for low-latency applications. My work is focused on service
 discovery and application metrics
 - OKR owner: migrate from an in-house metric aggrgation system to Prometheus, define
 and deploy a unique application identifier used in observability services
@@ -149,8 +149,8 @@ Spanish Elementary (read, written, basic listening/speaking)
 
 Miscellaneous
 Blogging Almost-technical blog (dericbourg.net)
-Music Guitar (over 20 years)
-Playing in a band (15 years)
+Music { Guitar (over 20 years)
+{ Playing in a band (15 years)
 Boating Boat licence (sea, river)
 Personnal { First-Aid Officer
 commitment { Non-violence
