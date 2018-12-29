@@ -1,6 +1,7 @@
 Alban Dericbourg
 Software engineer
-Graduated from Arts et Métiers ParisTech (ENSAM) and Supélec
+Graduated from Arts et Métiers ParisTech (ENSAM) and
+Supélec
 
 Í
 
@@ -8,146 +9,96 @@ Graduated from Arts et Métiers ParisTech (ENSAM) and Supélec
 75011 Paris
 H (+33) 6 61 24 71 74
 B alban@dericbourg.net
-http://www.dericbourg.net
-32 years-old
+https://www.dericbourg.net
+33 years-old
 
 Experience
-Since jan. Criteo, Paris.
-2016 { Criteo Dynamic Email: e-mail retargeting (jan. 2016 - feb. 2017)
+Since jan. 2016 Criteo, Paris.
+. "Observability" team (since 2018)
+Team in charge of observability tools (logging, metrics, distributed tracing)
+As the only developer in the team, I:
+- Push to design user-oriented APIs for the team’s libraries
+- Contribute to observability components (including open-source, like
+BigGraphite for instance)
+- Promote development best practices (designing, coding, testing and
+reviewing)
+. "Scalability" team (2017 - 2018)
+Interface between SRE teams and feature teams, team focused on service
+discovery and metrics.
+As a member of this team, I:
+- Lead migration from an in-house metric aggregation tool to Prometheus
+(including communication and synchronization with other teams)
+- Contributed to the definition and release of a way to uniquely identify
+an application from a code point of view
+- Worked as support for JVM-related issues
+. Criteo Dynamic E-mail (2016 - 2017)
+Design, development and maintenance:
+- Deliverability-oriented tools (ability to deliver an a-mail into inbox and
+not into spam box)
+- E-mail templating
+In all those teams: bootstrapped team retrospectives.
 
--
+Since jun. 2018 Exercism.
+Exercism.io lets people learn a language through exercices that are reviewed
+by mentors.
+I contribute as a mentor for Scala and Java tracks.
 
-Software engineer in a distributed team (Paris, Bucharest, Grenoble)
-OKR owner: industrialize e-mail templating
-{ Scalability team (since mar. 2017)
-- Team in charge of SDKs for low-latency applications. My work is focused on service
-discovery and application metrics
-- OKR owner: migrate from an in-house metric aggrgation system to Prometheus, define
-and deploy a unique application identifier used in observability services
-- Informal Java / Scala support: entry-point for Scala topics, version upgrade Criteo-wide
-on my own initiative
-Environnement : Java 7/8, Scala, Finatra, Spring, SQL Server, Mesos, C#, Prometheus,
-Consul
-
-Apr. 2015 – Spideo, Paris.
-nov. 2015 Profile-based and content-based recommendation of video content (VoD and TV).
+Apr. 2015 – nov. Spideo, Paris.
+2015 Profile-based and content-based recommendation of video content (VoD and
+TV).
 { Tech lead
 { Development and maintenance of APIs consumed by content providers
 { Set-up of configuration management and automatic deployment
-Environment : Java 7/8, Scala, Jersey, Guice, MongoDB, Cassandra, Elasticsearch, Kafka,
-Ansible, AWS, Git, Kanban
 
-Oct. 2014 – RATP, service for Ippon Technologies, Noisy-le-Grand (93).
-apr. 2015 { New software factory
+Dec. 2012 – apr. Ippon Technologies.
+2015 . RATP (oct. 2014 - apr. 2015)
+Rework of software factory:
+- Gather feedback
+- Set-up tools (Jenkins, Sonar, Artifactory, Gitlab, Redmine)
+- Design and write documentation (including checklists)
+- Lead trainings
+- Bootstrap user support
+. Darty (jul. 2013 - oct. 2014)
+Contribution to spliting a monolith to (micro) services as a developer:
+- OMS layer (management of orders)
+- Availability layer (ability for Darty to delivery a given product in time)
+Setup experimental monitoring (logs et app metrics)
+. Digiplug (dec. 2012 - jul. 2013)
+Business management for releasing UMGI records.
+- Backend development
+- Setup testing environment
 
--
-
-Requirements study and implementation
-Process definition with end-users (developers and project managers)
-{ Development and maintenance of "white application" (Play templates)
-Environment : Git, Jenkins, Sonar, Artifactory, Redmine, Gitlab, Android, Play Framework
-
-Jul. 2013 – Darty, service for Ippon Technologies, Bagnolet (93).
-oct. 2014 { Micro-services refactoring of the information system
-
--
-
-"Availability" component (Darty’s ability to deliver goods to customers) with high
-stress constraints
-- "OMS" component (order management system)
-{ Monitoring set-up (logs and application metrics)
-Environment : Dropwizard, Guice, Java 7, FreeMarker, Guava, Jackson, Jersey, JDBI,
-Maven, Gradle, DB2, YourKit, Google Charts, AngularJS, Grunt, Bower, Liquibase, Elasticsearch, Logstash, Kibana, Graphite
-
-Dec. 2012 – Digiplug, service for Ippon Technologies, Paris.
-jul. 2013 Application to manage releases (clips, albums. . . ) from UMGI catalog.
-Environment : Spring, Hibernate, Java 6, Maven, Jetty, JUnit, EasyMock, Oracle, framework Java propriétaire
-
-2009 – 2012 Archives Nationales, service for Klee Group, Le Plessis Robinson (92).
-Archive management application (after a one-shot relocation helper application).
-{ Development of business modules
-{ System administration of virtual machines (development and integration)
-{ Continuous integration management
-{ Industrialization (code generators, common tasks automation)
-Environment : Java 6 (proprietary framework), Tomcat / JBoss, Maven 2, Solr, Oracle,
-Subversion, .Net 3.5 compact on mobile devices
-
-2011 – 2012 Vinci PARK, service for Klee Group, Le Plessis Robinson (92).
-Customer and accounting management application.
-{ Data modeling
-{ Technical quality manager (developer support, code review, metrics and test framework
-set-up)
-{ Took part in technical architecture set-up (Windows cluster, SQL Server cluster, Hyper-V
-/ Virtual Machine Manager)
-Environment : .Net 4 (framework propriétaire), SQL Server 2008R2, Visual Studio 2010,
-PowerDesigner, CruiseControl, TFS, MsTest
-
-Feb. – apr. Spark Archives, software editor, Klee Group subsidiary, Le Plessis Robinson (92).
-2012 Archive management sofware.
-{ Design and implementation of APIs consumed by mobile devices
-Environment : Java 7 (framework propriétaire), Jersey, Oracle
+2009 – 2012 KleeGroup, Le Plessis Robinson (92).
+Consulting company providing custom management applications.
 
 2009 Supélec, Rennes.
 Port of Microsoft Windows’ group policies to Unix.
-250h project, design, implementation and delivery of a core-module and the motd plugin.
-Released as a free software.
-Environment : Python, OpenLDAP, SVN
+250h project, design, implementation and delivery of a core-module and the
+motd plugin. Released as a free software.
 
 Education
-2017 Advanced Scrum training (Agilar) : coaching individuals, coaching teams, coaching
-organizations, continuous improvement
+2017 Advanced Scrum training (Agilar): coaching individuals, coaching teams,
+coaching organizations, continuous improvement
 2014 M101J: MongoDB for Java Developers
 2007 – 2009 École Supérieure d’Électricité (Supélec), Gif-sur-Yvette campus.
 Expertise in Secured Information Systems (Rennes, 35)
 2005 – 2007 École Nationale Supérieure d’Arts et Métiers (ENSAM), Angers
 
 Events
-Dec.
-Jun.
-Apr.
-May
-Apr.
-Dec.
-Mar.
-
-2015
-2015
-2015
-2014
-2014
-2013
-2013
-
-API days
-dotScale
-Devoxx France (3 days)
-dotScale
-Devoxx France (2 days)
-dotJS
-Devoxx France (3 days)
+Attending Regular attendance to dotConferences (dotScale, dotSecurity), Devoxx
+France
+Speaking Client-side load-balancing at Criteo at Algolia TechLunch
 
 Skills
-Computer
-Languages
-Web
-Frameworks
-Tools
-
-Java, Scala, Python, SQL, shell (Bash)
-HTML/XHTML, CSS
-Guice, Jersey, Play, AngularJS, JQuery
-Maven, Git, SVN, Jenkins, Sonar, Nexus, Artifactory, Docker
-
-DBMS Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra
-Application Jetty, Tomcat, Microsoft IIS
-servers
-OS Unix/Linux (Arch, Debian, CentOS), Windows
+Languages Scala, Java, Python, Go, Rust
+OS Unix/Linux, Windows
 
 Languages
+French Native
 English Upper intermediate level (TOEIC : 875)
 Spanish Elementary (read, written, basic listening/speaking)
 
-Miscellaneous
+Miscellaneous
 Blogging Almost-technical blog (dericbourg.net)
 Music { Guitar (over 20 years)
 { Playing in a band (15 years)
@@ -155,7 +106,7 @@ Boating Boat licence (sea, river)
 Personnal { First-Aid Officer
 commitment { Non-violence
 { NonViolent Communication
-Publication French translation of the book The Core Protocols: A Guide to Greatness by Richard
-Kasperowski (ISBN 978-1973931447)
+Publication French translation of the book The Core Protocols: A Guide to Greatness
+by Richard Kasperowski (ISBN 978-1973931447)
 
 

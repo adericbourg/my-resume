@@ -3,40 +3,63 @@
 \usepackage[utf8]{inputenc}
 \usepackage{amssymb}
 
-\usepackage[top=1.1cm, bottom=1.1cm, left=15mm, right=15mm]{geometry}
+\usepackage[top=20mm, bottom=20mm, left=25mm, right=25mm]{geometry}
 \recomputelengths
 
+% Left column width
+\setlength{\hintscolumnwidth}{30mm}
 
-% Largeur de la colonne pour les dates
-\setlength{\hintscolumnwidth}{2.5cm}
+\def \mission#1#2 {\linespread{2}\item[$\triangleright$] \emph{#1}\\#2}
 
 \firstname{Alban}
 \familyname{Dericbourg}
 \title{Software engineer\newline{}\small{Graduated from Arts et Métiers ParisTech (ENSAM) and Supélec}}
 \address{38 rue Richard Lenoir}{75011 Paris}
 \email{alban@dericbourg.net}
-\homepage{http://www.dericbourg.net}
+\homepage{https://www.dericbourg.net}
 \mobile{(+33) 6 61 24 71 74}
-\extrainfo{32 years-old}
+\extrainfo{33 years-old}
 \begin{document}
+
 \maketitle
 
 \section{Experience}
 \cventry{Since jan. 2016}{Criteo}{}{Paris}{}{
   \begin{itemize}
-    \item \emph{Criteo Dynamic Email}: e-mail retargeting (jan. 2016 - feb. 2017)
-    \begin{itemize}
-      \item Software engineer in a distributed team (Paris, Bucharest, Grenoble)
-      \item OKR owner: industrialize e-mail templating
-    \end{itemize}
-    \item Scalability team (since mar. 2017)
-    \begin{itemize}
-      \item Team in charge of SDKs for low-latency applications. My work is focused on service discovery and application metrics
-      \item OKR owner: migrate from an in-house metric aggrgation system to Prometheus, define and deploy a unique application identifier used in observability services
-      \item Informal Java / Scala support: entry-point for Scala topics, version upgrade Criteo-wide on my own initiative
-    \end{itemize}
+    \mission{"Observability" team (since 2018)}{
+      Team in charge of observability tools (logging, metrics, distributed tracing)\\
+      As the only developer in the team, I:
+      \begin{itemize}
+        \item Push to design user-oriented APIs for the team's libraries
+        \item Contribute to observability components (including open-source, like BigGraphite for instance)
+        \item Promote development best practices (designing, coding, testing and reviewing)
+      \end{itemize}
+    }
+    \mission{"Scalability" team (2017 - 2018)}{
+      Interface between SRE teams and feature teams, team focused on service discovery and metrics.\\
+      As a member of this team, I:
+      \begin{itemize}
+        \item Lead migration from an in-house metric aggregation tool to Prometheus (including
+              communication and synchronization with other teams)
+        \item Contributed to the definition and release of a way to uniquely identify an application
+              from a code point of view
+        \item Worked as support for JVM-related issues
+      \end{itemize}
+    }
+    \mission{Criteo Dynamic E-mail (2016 - 2017)}{
+      Design, development and maintenance:
+      \begin{itemize}
+        \item Deliverability-oriented tools (ability to deliver an a-mail into inbox and not into spam box)
+        \item E-mail templating
+      \end{itemize}
+    }
   \end{itemize}
-  \emph{Environnement : Java 7/8, Scala, Finatra, Spring, SQL Server, Mesos, C\#, Prometheus, Consul}
+  In all those teams: bootstrapped team retrospectives.
+}
+
+\cventry{Since jun. 2018}{Exercism}{}{}{}{
+  Exercism.io lets people learn a language through exercices that are reviewed by mentors.\\
+  I contribute as a mentor for Scala and Java tracks.
 }
 
 \cventry{Apr. 2015 -- nov. 2015}{Spideo}{}{Paris}{}{
@@ -46,115 +69,85 @@
     \item Development and maintenance of APIs consumed by content providers
     \item Set-up of configuration management and automatic deployment
   \end{itemize}
-  \emph{Environment : Java 7/8, Scala, Jersey, Guice, MongoDB, Cassandra, Elasticsearch, Kafka, Ansible, AWS, Git, Kanban}
 }
 
-\cventry{Oct. 2014 -- apr. 2015}{RATP}{service for Ippon Technologies}{Noisy-le-Grand (93)}{}{
+\cventry{Dec. 2012 -- apr. 2015}{Ippon Technologies}{}{}{}{
   \begin{itemize}
-    \item New software factory
-    \begin{itemize}
-      \item Requirements study and implementation
-      \item Process definition with end-users (developers and project managers)
-    \end{itemize}
-    \item Development and maintenance of "white application" (Play \emph{templates})
+    \mission{RATP (oct. 2014 - apr. 2015)}{
+      Rework of software factory:
+      \begin{itemize}
+        \item Gather feedback
+        \item Set-up tools (Jenkins, Sonar, Artifactory, Gitlab, Redmine)
+        \item Design and write documentation (including checklists)
+        \item Lead trainings
+        \item Bootstrap user support
+      \end{itemize}
+    }
+    \mission{Darty (jul. 2013 - oct. 2014)}{
+      Contribution to spliting a monolith to (micro) services as a developer:
+      \begin{itemize}
+        \item OMS layer (management of orders)
+        \item Availability layer (ability for Darty to delivery a given product in time)
+      \end{itemize}
+      Setup experimental monitoring (logs et app metrics)
+    }
+    \mission{Digiplug (dec. 2012 - jul. 2013)}{
+      Business management for releasing UMGI records.
+      \begin{itemize}
+        \item Backend development
+        \item Setup testing environment
+      \end{itemize}
+    }
   \end{itemize}
-  \emph{Environment : Git, Jenkins, Sonar, Artifactory, Redmine, Gitlab, Android, Play Framework}
 }
 
-\cventry{Jul. 2013 -- oct. 2014}{Darty}{service for Ippon Technologies}{Bagnolet (93)}{}{
-  \begin{itemize}%
-    \item Micro-services refactoring of the information system
-    \begin{itemize}
-      \item "Availability" component (Darty's ability to deliver goods to customers) with high stress constraints
-      \item "OMS" component (order management system)
-    \end{itemize}
-    \item Monitoring set-up (logs and application metrics)
-  \end{itemize}
-  \emph{Environment : Dropwizard, Guice, Java 7, FreeMarker, Guava, Jackson, Jersey, JDBI, Maven, Gradle, DB2, YourKit, Google Charts, AngularJS, Grunt, Bower, Liquibase, Elasticsearch, Logstash, Kibana, Graphite}
-}
-
-\cventry{Dec. 2012 -- jul. 2013}{Digiplug}{service for Ippon Technologies}{Paris}{}{
-  Application to manage releases (clips, albums\dots) from UMGI catalog.\newline{}
-  \emph{Environment : Spring, Hibernate, Java 6, Maven, Jetty, JUnit, EasyMock, Oracle, framework Java propriétaire}
-}
-
-\cventry{2009 -- 2012}{Archives Nationales}{service for Klee Group}{Le Plessis Robinson (92)}{}{
-  Archive management application (after a one-shot relocation helper application).
-  \begin{itemize}
-    \item Development of business modules
-    \item System administration of virtual machines (development and integration)
-    \item Continuous integration management
-    \item Industrialization (code generators, common tasks automation)
-  \end{itemize}
-  \emph{Environment : Java 6 (proprietary framework), Tomcat / JBoss, Maven 2, Solr, Oracle, Subversion, .Net 3.5 compact on mobile devices}
-}
-
-\cventry{2011 -- 2012}{Vinci PARK}{service for Klee Group}{Le Plessis Robinson (92)}{}{
-  Customer and accounting management application.
-  \begin{itemize}
-    \item Data modeling
-    \item Technical quality manager (developer support, code review, metrics and test framework set-up)
-    \item Took part in technical architecture set-up (Windows cluster, SQL Server cluster, Hyper-V / Virtual Machine Manager)
-  \end{itemize}
-  \emph{Environment : .Net 4 (framework propriétaire), SQL Server 2008R2, Visual Studio 2010, PowerDesigner, CruiseControl, TFS, MsTest}
-}
-
-\cventry{Feb. -- apr. 2012}{Spark Archives}{software editor, Klee Group subsidiary}{Le Plessis Robinson (92)}{}{
-  Archive management sofware.
-  \begin{itemize}
-    \item Design and implementation of APIs consumed by mobile devices
-  \end{itemize}
-  \emph{Environment : Java 7 (framework propriétaire), Jersey, Oracle}
+\cventry{2009 -- 2012}{KleeGroup}{}{Le Plessis Robinson (92)}{}{
+  Consulting company providing custom management applications.
 }
 
 \cventry{2009}{Supélec}{}{Rennes}{}{
   Port of Microsoft Windows' group policies to Unix.\newline{}
-  250h project, design, implementation and delivery of a core-module and the \emph{motd} plugin. Released as a free software.\newline{}
-  \emph{Environment : Python, OpenLDAP, SVN}
+  250h project, design, implementation and delivery of a core-module and the \emph{motd} plugin.
+  Released as a free software.\newline{}
 }
 
 \section{Education}
-\cvitem{2017}{Advanced Scrum training (Agilar) : coaching individuals, coaching teams, coaching organizations, continuous improvement}
+\cvitem{2017}{Advanced Scrum training (Agilar): coaching individuals, coaching teams,
+              coaching organizations, continuous improvement}
 \cvitem{2014}{M101J: MongoDB for Java Developers}
-\cvitem{2007 -- 2009}{École Supérieure d'Électricité (Supélec), Gif-sur-Yvette campus. \newline{} Expertise in Secured Information Systems (Rennes, 35)}
+\cvitem{2007 -- 2009}{École Supérieure d'Électricité (Supélec), Gif-sur-Yvette campus.\newline{}
+                      Expertise in Secured Information Systems (Rennes, 35)}
 \cvitem{2005 -- 2007}{École Nationale Supérieure d'Arts et Métiers (ENSAM), Angers}
 
 \section{Events}
-\cvitem{Dec. 2015}{API days}
-\cvitem{Jun. 2015}{dotScale}
-\cvitem{Apr. 2015}{Devoxx France (3 days)}
-\cvitem{May 2014}{dotScale}
-\cvitem{Apr. 2014}{Devoxx France (2 days)}
-\cvitem{Dec. 2013}{dotJS}
-\cvitem{Mar. 2013}{Devoxx France (3 days)}
-
+\cvitem{Attending}{Regular attendance to dotConferences (dotScale, dotSecurity), Devoxx France}
+\cvitem{Speaking}{\httplink[\emph{Client-side load-balancing at Criteo}]{https://youtu.be/E8_ky0znmX0} at Algolia TechLunch}
 
 \section{Skills}
-\subsection{Computer}
-\cvitem{Languages}{Java, Scala, Python, SQL, shell (Bash)}
-\cvitem{Web}{HTML/XHTML, CSS}
-\cvitem{Frameworks}{Guice, Jersey, Play, AngularJS, JQuery}
-\cvitem{Tools}{Maven, Git, SVN, Jenkins, Sonar, Nexus, Artifactory, Docker}
-\cvitem{DBMS}{Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra}
-\cvitem{Application servers}{Jetty, Tomcat, Microsoft IIS}
-\cvitem{OS}{Unix/Linux (Arch, Debian, CentOS), Windows}
+\cvitem{Languages}{Scala, Java, Python, Go, Rust}
+\cvitem{OS}{Unix/Linux, Windows}
 
-\subsection{Languages}
+\section{Languages}
+\cvitem{French}{Native}
 \cvitem{English}{Upper intermediate level (TOEIC : 875)}
 \cvitem{Spanish}{Elementary (read, written, basic listening/speaking)}
 
 \section{Miscellaneous}
 \cvitem{Blogging}{Almost-technical blog (\httplink[dericbourg.net]{https://www.dericbourg.net})}
-\cvitem{Music}{\begin{itemize}
-  \item Guitar (over 20 years)
-  \item Playing in a band (15 years)
-\end{itemize}}
+\cvitem{Music}{
+  \begin{itemize}
+    \item Guitar (over 20 years)
+    \item Playing in a band (15 years)
+  \end{itemize}
+}
 \cvitem{Boating}{Boat licence (sea, river)}
-\cvitem{Personnal commitment}{\begin{itemize}
-  \item First-Aid Officer
-  \item Non-violence
-  \item NonViolent Communication
-\end{itemize}}
+\cvitem{Personnal commitment}{
+  \begin{itemize}
+    \item First-Aid Officer
+    \item Non-violence
+    \item NonViolent Communication
+  \end{itemize}
+}
 \cvitem{Publication}{
   French translation of the book \emph{\href{https://github.com/adericbourg/coreprotocols-fr}{The Core Protocols: A Guide to Greatness}} by Richard Kasperowski (ISBN 978-1973931447)
 }
