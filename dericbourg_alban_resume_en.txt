@@ -13,7 +13,7 @@ https://www.dericbourg.net
 33 years-old
 
 Experience
-Since jan. 2016 Criteo, Paris.
+Since jan. 2016 Criteo, FOO, Paris, BAR.
 . "Observability" team (since 2018)
 Team in charge of observability tools (logging, metrics, distributed tracing)
 As the only developer in the team, I:
