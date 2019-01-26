@@ -13,7 +13,7 @@ https://www.dericbourg.net
 33 years-old
 
 Experience
-Since jan. 2016 Criteo, FOO, Paris, BAR.
+Since jan. 2016 Criteo, software engineer, Paris.
 . "Observability" team (since 2018)
 Team in charge of observability tools (logging, metrics, distributed tracing)
 As the only developer in the team, I:
@@ -22,6 +22,8 @@ As the only developer in the team, I:
 BigGraphite for instance)
 - Promote development best practices (designing, coding, testing and
 reviewing)
+- Organized and led Scala workshops to ramp-up my teammates on this
+language
 . "Scalability" team (2017 - 2018)
 Interface between SRE teams and feature teams, team focused on service
 discovery and metrics.
@@ -38,19 +40,18 @@ not into spam box)
 - E-mail templating
 In all those teams: bootstrapped team retrospectives.
 
-Since jun. 2018 Exercism.
+Since jun. 2018 Exercism, mentor.
 Exercism.io lets people learn a language through exercices that are reviewed
 by mentors.
 I contribute as a mentor for Scala and Java tracks.
 
-Apr. 2015 – nov. Spideo, Paris.
+Apr. 2015 – nov. Spideo, tech lead, Paris.
 2015 Profile-based and content-based recommendation of video content (VoD and
 TV).
-{ Tech lead
 { Development and maintenance of APIs consumed by content providers
 { Set-up of configuration management and automatic deployment
 
-Dec. 2012 – apr. Ippon Technologies.
+Dec. 2012 – apr. Ippon Technologies, software engineer.
 2015 . RATP (oct. 2014 - apr. 2015)
 Rework of software factory:
 - Gather feedback
@@ -68,10 +69,10 @@ Business management for releasing UMGI records.
 - Backend development
 - Setup testing environment
 
-2009 – 2012 KleeGroup, Le Plessis Robinson (92).
+2009 – 2012 KleeGroup, software engineer, Le Plessis Robinson (92).
 Consulting company providing custom management applications.
 
-2009 Supélec, Rennes.
+2009 Supélec, student, Rennes.
 Port of Microsoft Windows’ group policies to Unix.
 250h project, design, implementation and delivery of a core-module and the
 motd plugin. Released as a free software.
