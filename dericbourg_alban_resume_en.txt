@@ -78,6 +78,10 @@ Port of Microsoft Windows’ group policies to Unix.
 motd plugin. Released as a free software.
 
 Education
+2019 Parallel, Concurrent, and Distributed Programming in Java, a 3-course
+specialization by Rice University on Coursera (specialization certificate)
+Site Reliability Engineering: Measuring and Managing Reliability by
+Google Cloud on Coursera
 2017 Advanced Scrum training (Agilar): coaching individuals, coaching teams,
 coaching organizations, continuous improvement
 2014 M101J: MongoDB for Java Developers
@@ -95,11 +99,12 @@ Languages Scala, Java, Python, Go, Rust
 OS Unix/Linux, Windows
 
 Languages
-French Native
+
+French Native
 English Upper intermediate level (TOEIC : 875)
 Spanish Elementary (read, written, basic listening/speaking)
 
-Miscellaneous
+Miscellaneous
 Blogging Almost-technical blog (dericbourg.net)
 Music { Guitar (over 20 years)
 { Playing in a band (15 years)
