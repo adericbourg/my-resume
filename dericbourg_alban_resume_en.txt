@@ -13,8 +13,8 @@ https://www.dericbourg.net
 33 years-old
 
 Experience
-Since jan. 2016 Criteo, software engineer, Paris.
-. "Observability" team (since 2018)
+Jan. 2016 – mar. Criteo, software engineer, Paris.
+2019 . "Observability" team (since 2018)
 Team in charge of observability tools (logging, metrics, distributed tracing)
 As the only developer in the team, I:
 - Push to design user-oriented APIs for the team’s libraries
