@@ -1,5 +1,5 @@
 sudo: required
-dist: trusty
+dist: focal
 before_install:
 - sudo apt-get -qq update && sudo apt-get install -y --no-install-recommends make texlive-base texlive-binaries texlive-extra-utils texlive-font-utils texlive-latex-base texlive-fonts-recommended texlive-latex-extra texlive-fonts-extra texlive-lang-english texlive-lang-french dvipng texlive-latex-recommended lmodern latex-xcolor pgf poppler-utils
 script:
